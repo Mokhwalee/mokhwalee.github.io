@@ -1,10 +1,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Avinash Barnwal, Ph.D."
+title                    : "Mokhwa Lee, Ph.D. candidate"
 title_separator          : "-"
-name                     : &name "Avinash Barnwal"
-description              : &description "Senior Data Scientist - Kapitus"
+name                     : &name "Mokhwa Lee"
+description              : &description "Stony Brook University - Graduate School"
 url                      : https://mokhwalee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mokhwalee.github.io"
@@ -74,10 +74,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Avinash Barnwal"
+  name             : "Mokhwa Lee"
   avatar           : "profile.png"
-  bio              : "Scientist with interests in Finance and Machine Learning"
-  location         : "Arlington"
+  bio              : "Scientist with interests in Optimization and Machine Learning"
+  location         : "Stony Brook, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_JQP0CIAAAAJ&hl=en"
