@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Moka (Mokhwa) Lee",
-    "occupation": "Research Assistant at Stony Brook University",
     "major": "PhD in Applied Mathematics and Statistics(AMS)",
     "advanced certificate": "Data and Computational Science",
     "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
@@ -10,6 +9,14 @@
     "linkedin": "https://www.linkedin.com/in/moka-lee-45a852191/"
   },
   "work": [
+    {
+      "company": "OptiML Research lab",
+      "position": "Research Assistant",
+      "url": "https://sites.google.com/view/optimlstonybrook/home",
+      "startDate": "Aug 2019",
+      "endDate": "June 2025",
+      "summary": "Optimization Machine Learning"
+    },
     {
       "company": "Utopia Compression",
       "position": "Research and Development (R&D) Engineer",
