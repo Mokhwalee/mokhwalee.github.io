@@ -2,35 +2,27 @@
   "basics": {
     "name": "Moka (Mokhwa) Lee",
     "occupation": "Research Assistant at Stony Brook University",
+    "major": "PhD in Applied Mathematics and Statistics(AMS)",
+    "advanced certificate": "Data and Computational Science",
+    "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
     "research interest" : "Machine Learning, AI, Optimization, Numerical Analysis",
     "email": ["mokhwa.lee.726@gmail.com", "mokhwa.lee@stonybrook.edu"],
     "linkedin": "https://www.linkedin.com/in/moka-lee-45a852191/"
   },
-  "education": [
-    {
-      "institution": "Stony Brook University",
-      "location": "Stony Brook, NY",
-      "major": "PhD in Applied Mathematics and Statistics(AMS)",
-      "advanced certificate": "Data and Computational Science",
-      "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
-      "start date": "Aug 2019",
-      "end date": "June 2025"
-    }
-  ],
   "work": [
     {
       "company": "Utopia Compression",
       "position": "Research and Development (R&D) Engineer",
       "url": "https://utopiacompression.com",
-      "start date": "Jan 2023",
-      "end date": "Aug 2024",
+      "startDate": "Jan 2023",
+      "endDate": "Aug 2024",
       "summary": "Mathematical Modeling and Software Engineering"
     },
     {
       "company": "AlphaCrest Capital Management LLC",
       "position": "Quantitative Researcher",
-      "start date": "Aug 2020",
-      "end date": "June 2021",
+      "startDate": "Aug 2020",
+      "endDate": "June 2021",
       "summary": "Convex Optimization in Portfolio and Risk Management"
     }
   ],
