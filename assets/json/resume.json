@@ -2,19 +2,19 @@
   "basics": {
     "name": "Moka (Mokhwa) Lee",
     "occupation": "Research Assistant at Stony Brook University",
-    "researchInterest" : "Machine Learning, AI, Optimization, Numerical Analysis",
-    "email": "mokhwa.lee.726@gmail.com, mokhwa.lee@stonybrook.edu",
+    "research interest" : "Machine Learning, AI, Optimization, Numerical Analysis",
+    "email": ["mokhwa.lee.726@gmail.com", "mokhwa.lee@stonybrook.edu"],
     "linkedin": "https://www.linkedin.com/in/moka-lee-45a852191/"
   },
   "education": [
     {
       "institution": "Stony Brook University",
       "location": "Stony Brook, NY",
-      "studyType": "PhD in Applied Mathematics and Statistics(AMS)",
-      "advancedCertificate": "Data and Computational Science",
-      "researchAdvisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
-      "startDate": "August 2019",
-      "endDate": "June 2025 (expected graduation date)"
+      "major": "PhD in Applied Mathematics and Statistics(AMS)",
+      "advanced certificate": "Data and Computational Science",
+      "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
+      "start date": "Aug 2019",
+      "end date": "June 2025"
     }
   ],
   "work": [
@@ -22,40 +22,39 @@
       "company": "Utopia Compression",
       "position": "Research and Development (R&D) Engineer",
       "url": "https://utopiacompression.com",
-      "startDate": "Jan 2023",
-      "endDate": "Aug 2024",
+      "start date": "Jan 2023",
+      "end date": "Aug 2024",
       "summary": "Mathematical Modeling and Software Engineering"
     },
     {
       "company": "AlphaCrest Capital Management LLC",
       "position": "Quantitative Researcher",
-      "startDate": "Aug 2020",
-      "endDate": "June 2021",
+      "start date": "Aug 2020",
+      "end date": "June 2021",
       "summary": "Convex Optimization in Portfolio and Risk Management"
     }
   ],
   "publications": [
     {
       "name": "Mokhwa Lee and Yifan Sun",
-      "publisher": "IEEE",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
+      "publisher": "Journal of Optimization Theory and Applications (JOTA)",
+      "releaseDate": "April 10, 2025",
+      "url": "https://arxiv.org/abs/2504.07330",
+      "summary": "submitted to JOTA"
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Mokhwa Lee and Yifan Sun",
+      "publisher": "IEEE 2024 58th Asilomar Conference on Signals, Systems, and Computers",
+      "releaseDate": "April 04, 2025",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10942893",
+      "summary": ""
+    },
+    {
+      "name": "Mokhwa Lee and Yifan Sun",
+      "publisher": "NeurIPS OPT2023 (Workshop on Optimization for Machine Learning)",
+      "releaseDate": "Oct 26, 2024",
+      "url": "https://opt-ml.org/papers/2023/paper86.pdf",
+      "summary": ""
     }
   ],
   "languages": [
@@ -68,42 +67,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
