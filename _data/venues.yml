@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"IEEE":
+  url : https://ieeexplore.ieee.org/abstract/document/10942893
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JOTA" : 
+  url : https://arxiv.org/abs/2504.07330
+  color: "#008c9f"
 
-"Vision":
-  color: "#009f36"
+"Arxiv" : 
+  url : https://arxiv.org/abs/2106.05753
+  color: "#ff0000"
