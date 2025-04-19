@@ -455,11 +455,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%6F%6B%68%77%61.%6C%65%65.%37%32%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("https://github.com/mokhwalee", "_blank");
         },
       },{
         id: 'social-linkedin',
