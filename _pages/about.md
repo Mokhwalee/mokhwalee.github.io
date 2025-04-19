@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Applied Mathematics and Statistics with a strong foundation in `Machine Learning`, `Optimization`, `Numerical Analysis`, and `Artificial Intelligence`. My goal is to bridge the gap between theory and application by developing robust, interpretable, and scalable ML/AI solutions that address complex problems across diverse domains. 
+I am a PhD candidate in Applied Mathematics and Statistics with a strong foundation in `Machine Learning`, `Optimization`, `Numerical Analysis`, and `Artificial Intelligence`. I'm affiliated with [AI Institute](https://ai.stonybrook.edu) and [IACS](https://iacs.stonybrook.edu), and supervised by professor [Yifan Sun(CS)](https://sites.google.com/site/yifansunwebsite) and [Joseph Mitchell(AMS)](https://www.ams.sunysb.edu/~jsbm/jsbm.html). My goal is to bridge the gap between theory and application by developing robust, interpretable, and scalable ML/AI solutions that address complex problems across diverse domains. 
 
 My PhD research focuses on developing scalable second-order optimization methods, particularly Quasi-Newton (QN) algorithms. I have designed novel low-rank, multi-secant, and limited-memory variants of QN methods to address the challenges of large-scale machine learning tasks, including classification and neural networks. These methods aim to enhance convergence speed and stability while maintaining computational efficiency. For more information and the recent publications, please check my google scholar here: [link](https://scholar.google.com/citations?user=HzVjkyIAAAAJ&hl=en&oi=ao)
 
