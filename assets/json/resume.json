@@ -3,7 +3,16 @@
     "name": "Moka (Mokhwa) Lee",
     "major": "PhD in Applied Mathematics and Statistics(AMS)",
     "advanced certificate": "Data and Computational Science",
-    "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
+    "research advisor": {
+      "name": "Yifan Sun",
+      "department": "Computer Science",
+      "website": "https://sites.google.com/site/yifansunwebsite"
+    },
+    "co-advisor": {
+      "name": "Joseph Mitchell",
+      "department": "AMS",
+      "website" : "https://www.ams.sunysb.edu/~jsbm/jsbm.html"
+    },
     "research interest" : "Machine Learning, AI, Optimization, Numerical Analysis",
     "email": ["mokhwa.lee@stonybrook.edu"]
   },
@@ -14,7 +23,7 @@
       "url": "https://sites.google.com/view/optimlstonybrook/home",
       "startDate": "Oct 2020",
       "endDate": "June 2025",
-      "summary": "Optimization Machine Learning Research Lab"
+      "summary": "Optimization Machine Learning Research Lab at Stony Brook University"
     },
     {
       "company": "Utopia Compression",
@@ -22,14 +31,14 @@
       "url": "https://utopiacompression.com",
       "startDate": "Jan 2023",
       "endDate": "Aug 2024",
-      "summary": "Mathematical Modeling and Software Engineering"
+      "summary": "Mathematical Modeling and Software Engineering at Utopia Compression"
     },
     {
       "company": "AlphaCrest Capital Management LLC",
       "position": "Quantitative Researcher",
       "startDate": "Aug 2020",
       "endDate": "June 2021",
-      "summary": "Convex Optimization in Portfolio and Risk Management"
+      "summary": "Convex Optimization in Portfolio and Risk Management at AlphaCrest Capital Management"
     }
   ],
   "publications": [
