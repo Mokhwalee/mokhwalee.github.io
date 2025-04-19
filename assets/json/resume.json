@@ -3,16 +3,7 @@
     "name": "Moka (Mokhwa) Lee",
     "major": "PhD in Applied Mathematics and Statistics(AMS)",
     "advanced certificate": "Data and Computational Science",
-    "research advisor": {
-      "name": "Yifan Sun",
-      "department": "Computer Science",
-      "website": "https://sites.google.com/site/yifansunwebsite"
-    },
-    "co-advisor": {
-      "name": "Joseph Mitchell",
-      "department": "AMS",
-      "website" : "https://www.ams.sunysb.edu/~jsbm/jsbm.html"
-    },
+    "research advisor" : "Yifan Sun (Computer Science) and Joseph Mitchell(AMS)",
     "research interest" : "Machine Learning, AI, Optimization, Numerical Analysis",
     "email": ["mokhwa.lee@stonybrook.edu"]
   },
