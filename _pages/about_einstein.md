@@ -4,4 +4,4 @@ In addition to theoretical development, I have hands-on experience applying mach
 
 As an R&D Software Engineer at UtopiaCompression, I implemented and deployed combinatorial optimization algorithms, leveraging integer programming and BigCommerce APIs to improve real-time marketplace matching systems. Previously, as a Quantitative Researcher at AlphaCrest Capital Management, I utilized convex optimization and signal processing techniques to analyze financial time-series data and build predictive models for portfolio and risk management.
 
-My goal is to bridge the gap between theory and application by developing robust, interpretable, and scalable AI solutions that address complex problems across diverse domains.
+My goal is to bridge the gap between theory and application by developing robust, interpretable, and scalable ML/AI solutions that address complex problems across diverse domains.
