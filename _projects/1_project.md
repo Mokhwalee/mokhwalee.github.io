@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Github Repository
+title: Github
 description: 
 img: 
 importance: 1
