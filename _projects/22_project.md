@@ -2,7 +2,7 @@
 layout: page
 title: IEEE PPT
 description: 
-img: assets/img/ppt.png
+img: 
 importance: 1
 category: Presentation
 related_publications: false

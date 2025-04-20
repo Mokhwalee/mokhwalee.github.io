@@ -2,7 +2,7 @@
 layout: page
 title: Poster
 description: 
-img: assets/img/poster.png
+img: 
 importance: 1
 category: Presentation
 related_publications: false
