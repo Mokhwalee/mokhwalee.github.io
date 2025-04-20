@@ -5,11 +5,8 @@ description:
 img: 
 importance: 1
 category: Github
-related_publications: true
+related_publications: false
 ---
-
-
-## Repositories
 
 {% if site.data.repositories.github_repos %}
 
