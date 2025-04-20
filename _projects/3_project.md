@@ -9,10 +9,17 @@ related_publications: false
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/pdf/master_thesis.pdf" title="Master's Thesis" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <iframe src="{{ '/assets/pdf/master_thesis.pdf' | relative_url }}" width="100%" height="700px" style="border:none;"></iframe>
+  </div>
 </div>
-<div class="caption">
-    Thesis presentation at Ewha Womans University, Seoul, South Korea.
+
+<div class="caption mt-2">
+  Thesis presentation at Ewha Womans University, Seoul, South Korea.
 </div>
+
+<p>
+  <a href="{{ '/assets/pdf/master_thesis.pdf' | relative_url }}" target="_blank">
+    📄 Download the full thesis PDF
+  </a>
+</p>
