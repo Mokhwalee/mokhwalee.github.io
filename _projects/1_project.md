@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Github
+title: Poster
 description: 
 img: 
 importance: 1
-category: Github
+category: Presentation
 related_publications: false
 ---
 
-{% if site.data.repositories.github_repos %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/pdf/Poster.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-{% endif %}
