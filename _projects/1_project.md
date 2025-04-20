@@ -14,3 +14,6 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/pdf/Poster.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Selected Conference Presentations : CMS (Canadian Mathematical Society) and MOPTA (Modeling and Optimization Theory and Applications)
+</div>
