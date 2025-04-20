@@ -8,10 +8,14 @@ category: Presentation
 related_publications: false
 ---
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    <iframe src="{{ '/assets/pdf/master_thesis.pdf' | relative_url }}" width="100%" height="700px" style="border:none;"></iframe>
-  </div>
+<!-- Scrollable PDF Viewer -->
+<div style="height: 700px; overflow: auto; border: 1px solid #ccc; margin-bottom: 1rem;">
+  <iframe 
+    src="{{ '/assets/pdf/master_thesis.pdf' | relative_url }}" 
+    width="100%" 
+    height="100%" 
+    style="border: none;">
+  </iframe>
 </div>
 
 <div class="caption mt-2">
@@ -20,6 +24,6 @@ related_publications: false
 
 <p>
   <a href="{{ '/assets/pdf/master_thesis.pdf' | relative_url }}" target="_blank">
-    📄 Download the full thesis PDF
+    📄 Download the Full Thesis PDF
   </a>
 </p>
