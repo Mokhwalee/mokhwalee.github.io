@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Github, Presentation, Master's thesis]
+display_categories: [Github, Presentation]
 horizontal: false
 ---
 

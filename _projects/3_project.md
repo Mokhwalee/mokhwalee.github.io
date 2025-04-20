@@ -1,10 +1,10 @@
 ---
 layout: page
-title: MS work
+title: Master's Thesis
 description: 
 img: 
 importance: 1
-category: Master's thesis
+category: Presentation
 related_publications: false
 ---
 
