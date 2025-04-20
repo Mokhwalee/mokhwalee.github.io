@@ -4,7 +4,7 @@ title: Poster
 description: 
 img: assets/img/poster.png
 importance: 1
-category: Master's thesis
+category: Presentation
 related_publications: true
 ---
 
@@ -12,7 +12,7 @@ related_publications: true
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/master_thesis.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/pdf/Poster.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
