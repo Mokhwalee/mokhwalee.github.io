@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 
 nav: true
@@ -19,21 +19,33 @@ horizontal: false
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+
+  <!-- Check if the category is Github -->
+  {% if category == "Github" %}
+    {% if site.data.repositories.github_repos %}
+    <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+      {% for repo in site.data.repositories.github_repos %}
+        {% include repository/repo.liquid repository=repo %}
+      {% endfor %}
     </div>
-  </div>
+    {% endif %}
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
+    <!-- Generate cards for each project -->
+    {% if page.horizontal %}
+    <div class="container">
+      <div class="row row-cols-1 row-cols-md-2">
+      {% for project in sorted_projects %}
+        {% include projects_horizontal.liquid %}
+      {% endfor %}
+      </div>
+    </div>
+    {% else %}
+    <div class="row row-cols-1 row-cols-md-3">
+      {% for project in sorted_projects %}
+        {% include projects.liquid %}
+      {% endfor %}
+    </div>
+    {% endif %}
   {% endif %}
   {% endfor %}
 
