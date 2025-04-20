@@ -421,6 +421,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-ieee-ppt",
+          title: 'IEEE PPT',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/22_project/";
             },},{id: "projects-poster",
           title: 'Poster',
           description: "",
