@@ -9,11 +9,10 @@ related_publications: false
 ---
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/pdf/PPT.pdf" title="IEEE Presentation" class="img-fluid rounded z-depth-1" %}
-    </div>
+<iframe src="{{ '/assets/pdf/PPT.pdf' | relative_url }}" width="100%" height="700px" style="border:none;"></iframe>
+
+<div class="caption mt-2">
+  Presentation at "2024 58th Asilomar Conference on Signals, Systems, and Computers".
 </div>
-<div class="caption">
-    Presentation at "2024 58th Asilomar Conference on Signals, Systems, and Computers".
-</div>
+
+<p><a href="{{ '/assets/pdf/PPT.pdf' | relative_url }}" target="_blank">📄 Download the PDF</a></p>
