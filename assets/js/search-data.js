@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-ms-work",
-          title: 'MS work',
+            },},{id: "projects-master-39-s-thesis",
+          title: 'Master&amp;#39;s Thesis',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
